@@ -32,8 +32,7 @@ This project focuses on analyzing e-commerce sales data to generate actionable b
 ### Repository Contents
 
 - `flipkart_dashboard_rohit.pbix` – Power BI dashboard file  
-- `flipkart_sales_data_rohit.xlsx` – Raw dataset  
-- `flipkart_report_rohit.pdf` – Documentation and insights summary  
+- `flipkart_sales_data_rohit.xlsx` – Raw dataset
 - `README.md` – Project description
 
 ---
